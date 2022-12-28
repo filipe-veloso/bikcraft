@@ -29,8 +29,8 @@ img {
   max-width: 100%;
   display: block;
 }
-/* nao funcionou aula-15-16
+
 img[src$=".jpeg"] {
   border-radius: 4px;
-}*/
+}
 
